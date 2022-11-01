@@ -6,7 +6,7 @@
 
 💬 Ask me about **React, Vue, Node.js, TS, Storybook**
 
-📫 Reach me on **[email](hubmoncenis@gmail.com)**, **[linkedin](https://www.linkedin.com/in/**hubert-moncenis-41703783/)**, **[twitter](https://twitter.com/HMoncenis)** or **[malt](https://www.malt.fr/profile/hubertmoncenis)**
+📫 Reach me on <strong><a href="mailto:hubmoncenis@gmail.com">hubmoncenis@gmail.com</a></strong>, **[linkedin](https://www.linkedin.com/in/**hubert-moncenis-41703783/)**, **[twitter](https://twitter.com/HMoncenis)** or **[malt](https://www.malt.fr/profile/hubertmoncenis)**
 
 <br />
 
