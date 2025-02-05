@@ -6,7 +6,7 @@
 
 💬 Ask me about **fullstack dev / software craftmanship / feature design**
 
-📫 Reach me on <strong><a href="https://hubbb.dev/">my website</a></strong>, <strong><a href="mailto:hubmoncenis@gmail.com">email</a></strong>, **[linkedin](https://www.linkedin.com/in/**hubert-moncenis-41703783/)**, **[twitter](https://twitter.com/HMoncenis)** or **[malt](https://www.malt.fr/profile/hubertmoncenis)**
+📫 Reach me on <strong><a href="https://hubbb.dev/">my website</a></strong>, **[linkedin](https://www.linkedin.com/in/**hubert-moncenis-41703783/)** or **[malt](https://www.malt.fr/profile/hubertmoncenis)**
 
 <br />
 
