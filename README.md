@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Hubert Moncenis</h1>
 
-🌱 I'm working as a freelance fullstack JS developer **[@betagouv](https://beta.gouv.fr/)** (team **[Potentiel](https://github.com/MTES-MCT/potentiel)**)
+🌱 Currently working as TS developer (freelance) for **[@betagouv](https://beta.gouv.fr/)** (team **[Potentiel](https://github.com/MTES-MCT/potentiel)**)
 
-✨ Passionated about my job, I'm also volunteer at [@bdxio](https://twitter.com/bdxio), an assocation which organised dev talks in Bordeaux every year. If you're interested you can check for our [next edition](https://www.bdxio.fr/)
+✨ I've been in [@bdxio](https://twitter.com/bdxio) team for 3 years (2022 - 2025). The assocation organize dev talks in Bordeaux every year. If you're interested you can check for the [next edition](https://www.bdxio.fr/)
 
-💬 Ask me about **React, Vue, Node.js, TS, Storybook**
+💬 Ask me about **fullstack dev / software craftmanship / feature design**
 
 📫 Reach me on <strong><a href="https://hubbb.dev/">my website</a></strong>, <strong><a href="mailto:hubmoncenis@gmail.com">email</a></strong>, **[linkedin](https://www.linkedin.com/in/**hubert-moncenis-41703783/)**, **[twitter](https://twitter.com/HMoncenis)** or **[malt](https://www.malt.fr/profile/hubertmoncenis)**
 
