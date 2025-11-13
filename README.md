@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Hubert Moncenis</h1>
+# Hi 👋, I'm Hubert Moncenis
 
 🌱 Currently working as TS developer (freelance) for **[@betagouv](https://beta.gouv.fr/)** (team **[Potentiel](https://github.com/MTES-MCT/potentiel)**)
 
@@ -10,5 +10,4 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HubM&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=7D7CFF&ring=7D7CFF&currStreakLabel=7D7CFF)](https://git.io/streak-stats)
-
+[![HubM's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubm&hide=contribs&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
